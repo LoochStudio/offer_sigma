@@ -8,3 +8,6 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the Sigma proposal as a single anchored page at `/`; the supplied brief specifies one ordered document with in-page navigation.
+- Keep proposal visual roles in `src/styles.css` semantic tokens; this preserves a consistent reference-inspired palette across the page.
